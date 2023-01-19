@@ -14,3 +14,4 @@ Rspostas
 - Cursos, alunos, professores, matrículas, int, varchar.
 
 - Um para muitos, muitos para muitos.
+![image](https://user-images.githubusercontent.com/113525508/213482130-17baeb2f-921e-42b8-8597-8744369c1c62.png)
