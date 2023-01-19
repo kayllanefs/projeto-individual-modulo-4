@@ -13,6 +13,8 @@ Com a criação de uma Query, responderemos as perguntas a seguir:
 
 Rspostas
 
-Sim. As entidades vão surgindo de acordo com a necessidade do banco criado.
-Cursos, alunos, professores, matrículas, int, varchar.
-Um para muitos, muitos para muitos.
+- Sim. As entidades vão surgindo de acordo com a necessidade do banco criado.
+
+- Cursos, alunos, professores, matrículas, int, varchar.
+
+- Um para muitos, muitos para muitos.
